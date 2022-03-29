@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MatiasSeb
+- 👀 I’m interested in web development, games, security & all that's related to developing/learning.
+- 🌱 I’m currently studying in Universidad del Bío-Bío in Concepción, VIII Region, Chile.
+- 💞️ I’m looking to collaborate on any website developing or analytics study
+- 📫 How to reach me: via msg @ GitHub
