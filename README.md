@@ -22,7 +22,7 @@
 
 
 
-##### - 📫 How to reach me: via msg @ GitHub
+##### - 📫 How to reach me: via msg @ GitHub, or on Discord: Seb#4614
 
 
 
