@@ -22,7 +22,7 @@
 
 
 
-##### - 📫 How to reach me: via msg @ GitHub,320.+++++++++++++++++ or on Discord: Sebitoo#1536
+##### - 📫 How to reach me for projects and business inquiries: via msg @ GitHub, Email or on Discord: Sebitoo#1536
 
 
 
