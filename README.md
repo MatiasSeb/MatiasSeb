@@ -2,9 +2,9 @@
 
 ##### 🌱  I’m currently studying Ingenieria en Ejecución en Computación e Informática at Universidad del Bío-Bío in Concepción, VIII Region, Chile.
 
-##### 👀  I’m interested in web development projects, cyber security,  & all that's related to development/learning in the area of IT.
+##### 👀  I’m interested in creating software in its many ways and forms, DevOps, SRE for apps and web-apps, Cyber-security in its practice, & all that's related to development and learning in the whole area of IT.
 
-##### 💞️  I’m willingly looking to collaborate on projects that i believe, can make me a better person and also make an impact around people, where everybody can learn a lot, i hope this in the both ways, psychological and intellectually.
+##### 💞️  I’m willingly looking to collaborate on projects where everybody could and can learn a lot, i hope this in the both ways, psychological and intellectually.
 
 ##### 👨‍💻 I have managed to know and put in practice:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
