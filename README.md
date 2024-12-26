@@ -1,6 +1,6 @@
 # 👋  Hi, I’m Matías!
 
-##### 🌱  I’m currently studying Ingenieria en Ejecución en Computación e Informática at Universidad del Bío-Bío in Concepción, VIII Region, Chile.
+##### 🌱  I’m a Software Engineer, actually a Computing and Informatics Engineer, with a deep knowledge in hardware and software development, right now stuck inside the VIII Region, Chile.
 
 ##### 👀  I’m interested in creating software in its many ways and forms, DevOps, SRE for apps and web-apps, Cyber-security in its practice, & all that's related to development and learning in the whole area of IT.
 
