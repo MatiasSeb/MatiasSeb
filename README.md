@@ -22,6 +22,6 @@ Software Engineer based in Concepción, Chile, working across development and in
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · [Email](mailto:matiasbustoslagos@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matias-bustos-lagos-43730022b/) · [Email](mailto:matiasbustoslagos@gmail.com)
 
 
